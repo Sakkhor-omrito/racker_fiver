@@ -36,6 +36,9 @@
         font-family: 'Inter', sans-serif;
         font-size: 15px;
     }
+    .emails_login button {
+        padding: 8px 20px 7px 20px;
+    }
     .g_akash  p{
         font-size: 18px;
     }
@@ -108,7 +111,7 @@
     /* banner part */
     .banner_right img {
         width: 100%;
-        margin-left: 57px;
+        margin-left: 54px;
     }
     .banner_right {
         right: -59%;
