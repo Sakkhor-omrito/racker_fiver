@@ -107,10 +107,12 @@
 @media(min-width:768px) and (max-width:991px){
     /* banner part */
     .banner_right img {
-        width: 45%;
+        width: 100%;
+        margin-left: 57px;
     }
     .banner_right {
         right: -59%;
+        position: static;
     }
     .contact_top a {
         font-size: 14px;
@@ -122,6 +124,7 @@
         font-size: 22px;
         line-height: 35px;
     }
+    
     .banner_middle p {
         font-size: 13px;
     }
@@ -160,6 +163,15 @@
     .email_login {
         margin: 150px 0 100px 0px;
     }
+    .emails_login input {
+        padding: 6px 10px;
+    }
+    .emails_login button {
+        margin-left: -77px;
+        transform: translateY(-2px);
+        padding: 8px 20px 7px 20px;
+        font-size: 15px;
+    }
     .footer_2 p {
         font-size: 14px;
         margin-top: 22px;
@@ -169,13 +181,17 @@
     }
 }
 @media(min-width:576px) and (max-width:767.98px){
+  
      /* banner part */
      .banner_flex{
         flex-direction: column-reverse;
     }
     .banner_right img {
-        width: 80%;
+        width: 100%;
         margin-left: 15px;
+    }
+    .banner_right {
+        position: static;
     }
     .contact_top {
         transform: translateX(0%);
@@ -185,7 +201,7 @@
         font-size: 16px;
     }
     .banner_left {
-        margin-top: 740px;
+        margin-top: 40px;
     }
     .banner_top img {
         width: 64%;
@@ -274,11 +290,15 @@
 @media(max-width:767.98px){}
 @media(max-width:575px){
     /* banner part */
+    .banner_right {
+        position: inherit;
+        
+    }
     .banner_flex{
         flex-direction: column-reverse;
     }
     .banner_right img {
-        width: 80%;
+        width: 90%;
         margin-left: 15px;
     }
     .contact_top {
@@ -288,8 +308,8 @@
     .contact_top a {
         font-size: 16px;
     }
-    .banner_left{
-      margin-top: 490px;
+    .banner_left {
+        margin-top: 40px;
     }
     .banner_top img {
         width: 64%;
@@ -352,6 +372,8 @@
     }
     .margin_input{
         margin-left: 0;
+        display:flex;
+        justify-content: center;
     }
     .email_login {
         margin: 61px 0 64px 0px;
@@ -368,6 +390,7 @@
     .footer_2 p {
         margin-top: 15px;
         font-size: 13px;
+        text-align: center;
     }
     .footer_1{
         text-align: center;
