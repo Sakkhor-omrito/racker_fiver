@@ -1,0 +1,375 @@
+@media(min-width:1400px){
+    /* banner part start */
+    .banner_right {
+        right: -12.3%;
+    }
+    .banner_middle h2 {
+        font-size: 34px;
+    }
+    .banner_middle p {
+        font-size: 18px;
+    }
+    .banner_bottom p {
+        font-size: 16px;
+    }
+    .banner_btn a {
+        padding: 11px 50px;
+    }
+    .rackers_beta h2{
+        font-size: 34px;
+    }
+    .rackers_beta p{
+        font-size: 17px;
+    }
+    .dollar1 h5 {
+        font-size: 18px;
+        margin-top: 11px;
+    }
+    .email_first p {
+        font-size: 18px;
+    }
+    .poker {
+        margin: 30px 0 0 27px;
+    }
+    .emails_login input {
+        padding: 6px 10px;
+        font-family: 'Inter', sans-serif;
+        font-size: 15px;
+    }
+    .g_akash  p{
+        font-size: 18px;
+    }
+    .footer_2 p {
+        font-size: 18px;
+    }
+}
+@media(min-width:991px) and (max-width:1199.98px){
+    /* banner part */
+    .banner_right img {
+        width: 60%;
+    }
+    .banner_right {
+        right: -32%;
+    }
+    .contact_top a {
+        font-size: 16px;
+    }
+    .contact_top {
+        transform: translateX(18%);
+        margin-top: 50px;
+    }
+    .banner_middle h2 {
+        font-size: 25px;
+        line-height: 37px;
+    }
+    .banner_middle p {
+        width: 92%;
+        font-size: 14px;
+    }
+    .banner_bottom p {
+        font-size: 13px;
+    }
+    .banner_btn a {
+        padding: 10px 44px;
+        font-size: 15px;
+    }
+    #racker_part {
+        margin-top: 50px;
+    }
+    .racker_lefts img {
+        width: 90%;
+    }
+    .rackers_beta p{
+        font-size: 14px;
+    }
+    .dollar1 h5 {
+        font-size: 16px;
+        margin-top: 7px;
+    }
+    .email_first p {
+        width: 91%;
+        font-size: 14px;
+    }
+    .emails_login input {
+        padding: 5px 17px;
+    }
+    .emails_login button {
+        margin-left: -131px;
+        transform: translateY(-3px);
+        padding: 6px 20px 7px 20px;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+    }
+    .email_login {
+        margin: 150px 0 150px 0px;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    /* banner part */
+    .banner_right img {
+        width: 45%;
+    }
+    .banner_right {
+        right: -59%;
+    }
+    .contact_top a {
+        font-size: 14px;
+    }
+    .contact_top {
+        transform: translateX(5%);
+    }
+    .banner_middle h2 {
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .banner_middle p {
+        font-size: 13px;
+    }
+    .banner_bottom p {
+        font-size: 13px;
+    }
+    .banner_btn a {
+        padding: 9px 46px;
+        font-size: 14px;
+    }
+    #racker_part {
+        margin-top:0px;
+    }
+    .rackers_beta h2{
+        font-size: 23px;
+    }
+    .rackers_beta p{
+        font-size: 13px;
+    }
+    .dollar1 h5 {
+        font-size: 13px;
+        margin-top: 8px;
+    }
+    #email_part {
+        margin-top: 100px;
+    }
+    .email_margin{
+        margin-left: 0;
+    }
+    .email_first p {
+        font-size: 13px;
+    }
+    .margin_input{
+        margin-left: 26%;
+    }
+    .email_login {
+        margin: 150px 0 100px 0px;
+    }
+    .footer_2 p {
+        font-size: 14px;
+        margin-top: 22px;
+    }
+    .footer_1 img {
+        max-width: 180px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+     /* banner part */
+     .banner_flex{
+        flex-direction: column-reverse;
+    }
+    .banner_right img {
+        width: 80%;
+        margin-left: 15px;
+    }
+    .contact_top {
+        transform: translateX(0%);
+        margin-top: 56px;
+    }
+    .contact_top a {
+        font-size: 16px;
+    }
+    .banner_left {
+        margin-top: 740px;
+    }
+    .banner_top img {
+        width: 64%;
+    }
+    .banner_middle {
+        margin-top: 30px;
+    }
+    .banner_middle h2 {
+        font-size: 27px;
+        line-height: 34px;
+    }
+    .banner_middle p {
+        width: 100%;
+        font-size: 14px;
+    }
+    .card_suit img {
+        max-width: 90px;
+    }
+    .banner_bottom p {
+        font-size: 14px;
+    }
+    .banner_btn a {
+        font-size: 14px;
+    }
+
+    #racker_part {
+        margin-top: 80px;
+    }
+    .racker_lefts img {
+        width: 93%;
+        margin-top: 0px;
+    }
+    .racker_lefts {
+        transform: translateX(0px);
+    }
+    .rackers_beta {
+        margin-top: 80px;
+    }
+    .rackers_beta h2 {
+        font-size: 27px;
+    }
+    .rackers_beta p {
+        font-size: 14px;
+    }
+    .dollar1 h5 {
+        font-size: 17px;
+        margin-top: 11px;
+    }
+    #email_part {
+        margin-top: 50px;
+    }
+    .email_margin{
+        margin-left: 0;
+    }
+    .email_first {
+       margin-left: 0;
+    }
+    .email_first p {
+        width:100%;
+    }
+    .email_first p {
+        width: 100%;
+        font-size: 14px;
+    }
+    .margin_input{
+        margin-left:20%;
+    }
+    .email_login {
+        margin: 61px 0 64px 0px;
+    }
+    .emails_login button {
+        transform: translateY(-2.4px);
+    }
+    .footer_1 img {
+        max-width: 120px;
+    }
+   
+    .footer_2 p {
+        margin-top: 13px;
+        font-size: 13px;
+    }
+    .footer_1{
+        text-align: center;
+    }
+}
+@media(max-width:767.98px){}
+@media(max-width:575px){
+    /* banner part */
+    .banner_flex{
+        flex-direction: column-reverse;
+    }
+    .banner_right img {
+        width: 80%;
+        margin-left: 15px;
+    }
+    .contact_top {
+        transform: translateX(0%);
+        margin-top: 56px;
+    }
+    .contact_top a {
+        font-size: 16px;
+    }
+    .banner_left{
+      margin-top: 490px;
+    }
+    .banner_top img {
+        width: 64%;
+    }
+    .banner_middle {
+        margin-top: 30px;
+    }
+    .banner_middle h2 {
+        font-size: 21px;
+        line-height: 34px;
+    }
+    .banner_middle p {
+        width: 100%;
+        font-size: 12px;
+    }
+    .card_suit img {
+        max-width: 90px;
+    }
+    .banner_bottom p {
+        font-size: 13px;
+    }
+    .banner_btn a {
+        font-size: 12px;
+    }
+
+    #racker_part {
+        margin-top: 80px;
+    }
+    .racker_lefts img {
+        width: 93%;
+        margin-top: 0px;
+    }
+    .racker_lefts {
+        transform: translateX(0px);
+    }
+    .rackers_beta {
+        margin-top: 80px;
+    }
+    .rackers_beta h2{
+        font-size: 23px;
+    }
+    .rackers_beta p{
+        font-size: 13px;
+    }
+    #email_part {
+        margin-top: 50px;
+    }
+    .email_margin{
+        margin-left: 0;
+    }
+    .email_first {
+       margin-left: 0;
+    }
+    .email_first p {
+        width:100%;
+    }
+    .email_first p {
+        width: 100%;
+        font-size: 13px;
+    }
+    .margin_input{
+        margin-left: 0;
+    }
+    .email_login {
+        margin: 61px 0 64px 0px;
+    }
+    .emails_login button {
+        transform: translateY(-2.4px);
+    }
+    .footer_1 img {
+        max-width: 100px;
+    }
+    .footer {
+        display:block!important;
+    }
+    .footer_2 p {
+        margin-top: 15px;
+        font-size: 13px;
+    }
+    .footer_1{
+        text-align: center;
+    }
+}
